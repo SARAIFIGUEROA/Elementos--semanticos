@@ -1,0 +1,27 @@
+/*
+ANATOMIA DEL CSS
+
+selector{
+    propiedad: valor;
+    propiedad: valor;
+ } */
+
+ body{
+     background-color: darkslategrey;
+ }
+
+ h1{color: floralwhite;
+     background-color: #003333;} 
+h2{color: royalblue;}
+
+     p{color: springgreen;}
+     b{color:lightseagreen;}
+   em{color: navy;}
+     
+/*imagen*/
+#foto-las-grutas{
+/* ancho */
+width:250px ;
+/*alto */
+heigth:100px;
+}
